@@ -4,6 +4,7 @@ export const resumeConfig: ResumeConfig = {
   personal: {
     name: 'Michel Stéphane Ekuma AMOUSSOU-GUENOU',
     photoBackEmoji: '👨‍💻',
+    photo: '/images/profile_.webp',
     title: {
       fr: 'Développeur Web Front-End',
       en: 'Front-End Web Developer',
