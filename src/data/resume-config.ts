@@ -118,30 +118,32 @@ export const resumeConfig: ResumeConfig = {
         fr: 'Développement et maintenance d\'applications web responsives pour Sewema.',
         en: 'Development and maintenance of responsive web applications for Sewema.',
       },
-      techs: ['JavaScript', 'TypeScript', 'React', 'Next.js', 'Strapi', 'Ruby on Rails', 'Tailwind CSS', 'Bootstrap', 'Git', 'MySQL', 'PostgreSQL', 'SQLite'],
+      techs: ['JavaScript', 'TypeScript', 'React', 'Next.js', 'Strapi', 'Ruby on Rails', 'Tailwind CSS', 'ShadCn', 'Bootstrap', 'Git', 'MySQL', 'PostgreSQL', 'SQLite'],
       isHighlighted: true,
       details: {
         context: {
-          fr: 'Projet web au sein d\'ETRILABS pour le client Sewema, Cotonou.',
-          en: 'Web project within ETRILABS for the Sewema client, Cotonou.',
+          fr: 'Projet de développement du site et de l\'application Web pour la nouvelle version de Sewema.',
+          en: 'Project for the development of the website and web application for the new version of Sewema.',
         },
         tasks: {
           fr: [
             'Développement de sites web responsive',
             'Développement d\'applications web et de nouvelles fonctionnalités',
+            'Intégration de l\'api en collaboration avec l\'équipe back-end',
             'Maintenance et mise à jour des sites web et applications déployés',
             'Correction des bugs existants sur les applications déployées',
           ],
           en: [
             'Development of responsive websites',
             'Development of web applications and new features',
+            'Integration of the api in collaboration with the back-end team',
             'Maintenance and updates of deployed websites and applications',
             'Bug fixing on deployed applications',
           ],
         },
         env: {
-          fr: 'React / Next.js / TypeScript / Tailwind CSS / Git',
-          en: 'React / Next.js / TypeScript / Tailwind CSS / Git',
+          fr: 'React / Next.js / TypeScript / Tailwind CSS / ShadCn / Git',
+          en: 'React / Next.js / TypeScript / Tailwind CSS / ShadCn / Git',
         },
       },
     },
@@ -159,19 +161,23 @@ export const resumeConfig: ResumeConfig = {
       isHighlighted: false,
       details: {
         context: {
-          fr: 'Projet web au sein d\'ETRILABS pour le client New Day Africa, Cotonou.',
-          en: 'Web project within ETRILABS for the New Day Africa client, Cotonou.',
+          fr: 'Projet de développement/ajout de fonctionnalités sur l\'application web de Kudizy',
+          en: 'Project for the development/addition of features on the Kudizy web application',
         },
         tasks: {
           fr: [
             'Développement de sites web responsive',
             'Développement d\'applications web et de nouvelles fonctionnalités',
+            'Intégration de l\'api en collaboration avec l\'équipe back-end',
+            'Développement avec un headless cms (Strapi)',
             'Maintenance et mise à jour des sites web et applications déployés',
             'Correction des bugs existants sur les applications déployées',
           ],
           en: [
             'Development of responsive websites',
             'Development of web applications and new features',
+            'Integration of the api in collaboration with the back-end team',
+            'Development with a headless cms (Strapi)',
             'Maintenance and updates of deployed websites and applications',
             'Bug fixing on deployed applications',
           ],
@@ -196,8 +202,8 @@ export const resumeConfig: ResumeConfig = {
       isHighlighted: false,
       details: {
         context: {
-          fr: 'Environnement dynamique et collaboratif, travail en équipe avec designers et développeurs back-end.',
-          en: 'Dynamic and collaborative environment, teamwork with designers and back-end developers.',
+          fr: 'Développement de sites web responsives, de plugins et maintenance des applications déployées.',
+          en: 'Development of responsive websites, plugins and maintenance of deployed applications.',
         },
         tasks: {
           fr: [
@@ -232,8 +238,8 @@ export const resumeConfig: ResumeConfig = {
       techs: ['PHP', 'JavaScript', 'WordPress', 'Drupal', 'Tailwind CSS', 'Bootstrap', 'Git', 'MySQL', 'PostgreSQL', 'SQLite'],
       details: {
         context: {
-          en: 'Digital agency with 20+ clients across various industries (retail, finance, healthcare). Team of 12 developers, working on 3-4 projects simultaneously.',
-          fr: 'Agence digitale avec 20+ clients dans différents secteurs (retail, finance, santé). Équipe de 12 développeurs, travaillant sur 3-4 projets simultanément.',
+          fr: 'Développement de sites web responsives, de plugins et maintenance des applications déployées.',
+          en: 'Development of responsive websites, plugins and maintenance of deployed applications.',
         },
         tasks: {
           fr: [
@@ -266,8 +272,8 @@ export const resumeConfig: ResumeConfig = {
       techs: ['PHP', 'Symfony', 'JavaScript', 'WordPress', 'Drupal', 'Tailwind CSS', 'Bootstrap', 'Git', 'MySQL', 'PostgreSQL', 'SQLite'],
       details: {
         context: {
-          en: 'Digital agency with 20+ clients across various industries (retail, finance, healthcare). Team of 12 developers, working on 3-4 projects simultaneously.',
-          fr: 'Agence digitale avec 20+ clients dans différents secteurs (retail, finance, santé). Équipe de 12 développeurs, travaillant sur 3-4 projets simultanément.',
+          fr: 'Développement de sites web responsives, de plugins et maintenance des applications déployées.',
+          en: 'Development of responsive websites, plugins and maintenance of deployed applications.',
         },
         tasks: {
           fr: [
@@ -300,8 +306,8 @@ export const resumeConfig: ResumeConfig = {
       techs: ['PHP', 'Symfony', 'JavaScript', 'WordPress', 'Drupal', 'Bootstrap', 'Git', 'MySQL', 'SQLite'],
       details: {
         context: {
-          en: 'Digital agency with 20+ clients across various industries (retail, finance, healthcare). Team of 12 developers, working on 3-4 projects simultaneously.',
-          fr: 'Agence digitale avec 20+ clients dans différents secteurs (retail, finance, santé). Équipe de 12 développeurs, travaillant sur 3-4 projets simultanément.',
+          fr: 'Développement de sites web responsives, de plugins et maintenance des applications déployées.',
+          en: 'Development of responsive websites, plugins and maintenance of deployed applications.',
         },
         tasks: {
           fr: [
@@ -334,8 +340,8 @@ export const resumeConfig: ResumeConfig = {
       techs: ['PHP', 'CodeIgniter', 'JavaScript', 'WordPress', 'Bootstrap', 'Git', 'MySQL'],
       details: {
         context: {
-          en: 'Digital agency with 20+ clients across various industries (retail, finance, healthcare). Team of 12 developers, working on 3-4 projects simultaneously.',
-          fr: 'Agence digitale avec 20+ clients dans différents secteurs (retail, finance, santé). Équipe de 12 développeurs, travaillant sur 3-4 projets simultanément.',
+          fr: 'Développement de sites web responsives, de plugins et maintenance des applications déployées.',
+          en: 'Development of responsive websites, plugins and maintenance of deployed applications.',
         },
         tasks: {
           fr: [
@@ -368,8 +374,8 @@ export const resumeConfig: ResumeConfig = {
       techs: ['HTML', 'CSS', 'JavaScript', 'PHP'],
       details: {
         context: {
-          en: 'Digital agency with 20+ clients across various industries (retail, finance, healthcare). Team of 12 developers, working on 3-4 projects simultaneously.',
-          fr: 'Agence digitale avec 20+ clients dans différents secteurs (retail, finance, santé). Équipe de 12 développeurs, travaillant sur 3-4 projets simultanément.',
+          fr: 'Stage au sein d\'un FAI de la place à Cotonou',
+          en: 'Internship at a FAI in Cotonou',
         },
         tasks: {
           fr: [
@@ -390,6 +396,74 @@ export const resumeConfig: ResumeConfig = {
       },
     },
   ],
+  projects: [
+    {
+      id: "1",
+      title: {fr : "SEWEMA", en: "SEWEMA"},
+      description: {
+        fr: "SEWEMA Web App",
+        en: "SEWEMA Web App",
+      },
+      techs: ['JavaScript', 'TypeScript', 'React', 'Next.js', 'Tailwind CSS', 'ShadCn', 'Git', 'PostgreSQL'],
+      url: "https://sewema.com",
+      github: "https://github.com/Kudizy/sewema-frontend"
+    },
+    {
+      id: "2",
+      title: {fr : "SEWEMA Website", en: "SEWEMA Website"},
+      description: {
+        fr: "Site Web de SEWEMA",
+        en: "SEWEMA Website",
+      },
+      techs: ['JavaScript', 'TypeScript', 'React', 'Next.js', 'Tailwind CSS', 'ShadCn', 'Git'],
+      url: "https://sewema.com",
+      github: "https://github.com/Kudizy/sewema-website"
+    },
+    {
+      id: "3",
+      title: {fr : "KUDIZY Web App", en: "KUDIZY Web App"},
+      description: {
+        fr: "KUDIZY Web App",
+        en: "KUDIZY Web App",
+      },
+      techs: ['JavaScript', 'React', 'Next.js', 'EJs', 'Bootstrap', 'Git', 'PostgreSQL'],
+      url: "https://sewema.com",
+      github: "https://github.com/Kudizy/sewema-frontend"
+    },
+    {
+      id: "4",
+      title: {fr : "WHISPA", en: "WHISPA"},
+      description: {
+        fr: "Site Web de WHISPA",
+        en: "WHISPA Website",
+      },
+      techs: ['JavaScript', 'React', 'Next.js', 'Strapi', 'Tailwind CSS', 'Git', 'PostgreSQL'],
+      url: "https://whispa.org",
+      github: "https://github.com/Kudizy/whispa-frontend"
+    },
+    {
+      id: "5",
+      title: {fr : "OWLA", en: "OWLA"},
+      description: {
+        fr: 'Site web d\'OWLA',
+        en: "OWLA Website",
+      },
+      techs: ['JavaScript', 'TypeScript', 'React', 'Next.js', 'Strapi', 'Ruby on Rails', 'Tailwind CSS', 'Bootstrap', 'Git', 'MySQL', 'PostgreSQL', 'SQLite'],
+      url: "https://www.womenleaders.africa/",
+      github: "https://github.com/Kudizy/owla-frontend"
+    },
+    {
+      id: "6",
+      title: {fr : "NORU CAPITAL", en: "NORU CAPITAL"},
+      description: {
+        fr: "Site web de NORU CAPITAL",
+        en: "NORU CAPITAL Web App",
+      },
+      techs: ['JavaScript', 'WordPress', 'PHP', 'Tailwind CSS', 'Bootstrap', 'Git', 'MySQL'],
+      url: "https://norucapital.com/",
+    },
+  ],
+
   education: [
     {
       school: { fr: 'Ecole Supérieure de Gestion d\'Informatique et des Sciences (ESGIS)', en: 'Ecole Supérieure de Gestion d\'Informatique et des Sciences (ESGIS)' },
