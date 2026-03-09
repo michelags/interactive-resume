@@ -153,7 +153,7 @@ export const resumeConfig: ResumeConfig = {
       company: { fr: 'ETRILABS / New Day Africa', en: 'ETRILABS / New Day Africa' },
       role: { fr: 'Développeur Web Front-End', en: 'Front-End Web Developer' },
       type: { fr: 'CDI', en: 'Full-time' },
-      period: { fr: 'Février 2024 – Décembre 2025', en: 'February 2024 – Décembre 2025' },
+      period: { fr: 'Janvier 2024 – Décembre 2024', en: 'January 2024 – Décembre 2024' },
       description: {
         fr: 'Développement et maintenance d\'applications web responsives pour New Day Africa.',
         en: 'Development and maintenance of responsive web applications for New Day Africa.',
@@ -194,7 +194,7 @@ export const resumeConfig: ResumeConfig = {
       company: { fr: 'ETRILABS', en: 'ETRILABS' },
       role: { fr: 'Développeur Web Front-End', en: 'Front-End Web Developer' },
       type: { fr: 'CDD', en: 'Full-time' },
-      period: { fr: 'Octobre 2022 – Janvier 2024', en: 'October 2022 – January 2024' },
+      period: { fr: 'Octobre 2022 – Décembre 2025', en: 'October 2022 – December 2025' },
       description: {
         fr: 'Développement de sites web responsives, de plugins et maintenance des applications déployées.',
         en: 'Development of responsive websites, plugins and maintenance of deployed applications.',
