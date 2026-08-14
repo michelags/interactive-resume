@@ -110,6 +110,43 @@ export const resumeConfig: ResumeConfig = {
   ],
   experiences: [
     {
+      id: 'rightcom',
+      company: { fr: 'RightCom', en: 'RightCom' },
+      role: { fr: 'Développeur Web Front-End', en: 'Front-End Web Developer' },
+      type: { fr: 'CDD', en: 'Full-time' },
+      period: { fr: 'Juin 2026 – Présent', en: 'June 2026 – Present' },
+      description: {
+        fr: 'Développement et maintenance d\'applications web responsives pour RightCom.',
+        en: 'Development and maintenance of responsive web applications for RightCom.',
+      },
+      techs: ['JavaScript', 'TypeScript', 'React', 'Next.js', 'Strapi', 'Ruby on Rails', 'Tailwind CSS', 'ShadCn', 'Bootstrap', 'Git', 'MySQL', 'PostgreSQL', 'SQLite'],
+      isHighlighted: true,
+      details: {
+        context: {
+          fr: 'Développement des produits internes de RightCom',
+          en: 'Development of internal products at RightCom',
+        },
+        tasks: {
+          fr: [
+            'Développement d\'applications web et de nouvelles fonctionnalités',
+            'Intégration de l\'api en collaboration avec l\'équipe back-end',
+            'Maintenance et mise à jour applications déployées',
+            'Correction des bugs existants sur les applications déployées',
+          ],
+          en: [
+            'Development of web applications and new features',
+            'Integration of the api in collaboration with the back-end team',
+            'Maintenance and updates of deployed applications',
+            'Bug fixing on deployed applications',
+          ],
+        },
+        env: {
+          fr: 'React / Redux / TypeScript / Bootstrap / Parse Server / Git',
+          en: 'React / Redux / TypeScript / Bootstrap / Parse Server / Git',
+        },
+      },
+    },
+    {
       id: 'etrilabs-sewema',
       company: { fr: 'ETRILABS / Sewema', en: 'ETRILABS / Sewema' },
       role: { fr: 'Développeur Web Front-End', en: 'Front-End Web Developer' },
